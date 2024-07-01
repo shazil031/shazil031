@@ -69,7 +69,7 @@ I'm a self-taught, passionate FrontEnd developer from India 🇮🇳
 </div>
 
 
-<--!
+<!--
 
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
@@ -85,7 +85,7 @@ I'm a self-taught, passionate FrontEnd developer from India 🇮🇳
 
 -->
 
-<--!
+<!--
 
 ### Android Dev & Flutter Dev  
 <div align="center">  
@@ -128,8 +128,9 @@ I'm a self-taught, passionate FrontEnd developer from India 🇮🇳
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
--->
+
 </td></tr></table>  
+-->
 
 <br/>  
 
