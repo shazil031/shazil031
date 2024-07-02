@@ -35,7 +35,7 @@ I'm a self-taught, passionate FrontEnd developer from India 🇮🇳
 </div>  
   
 
-### <div align="center">I'm Shazil, AI/ML enthusiast👨‍💻 Student at Echleon Institute of Technology  🚀</div>  
+### <div align="center">I'm Shazil, AI/ML enthusiast👨‍💻 Student at Echelon Institute of Technology  🚀</div>  
   
 <!--
 - 🔭 I’m currently working on a flutter Project on the Personal Health Record (PHR) App at TavLab IIIT-D  
